@@ -11,6 +11,23 @@ export function Banner() {
             key="1" 
             onPress={() => console.log("CLICOU NO BANNER 1")}
         >
+          <Image
+            source={require("../../assets/banner1.png")}
+            className='w-full h-36 rounded-2xl'
+          />
+
+        </Pressable>
+
+
+        <Pressable 
+            className='w-full h-36 rounded-2xl' 
+            key="1" 
+            onPress={() => console.log("CLICOU NO BANNER 2")}
+        >
+          <Image
+            source={require("../../assets/banner2.png")}
+            className='w-full h-36 rounded-2xl'
+          />
 
         </Pressable>
         
