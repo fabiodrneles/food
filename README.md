@@ -1,3 +1,32 @@
+# Modelo de App para Delivery
+## Este projeto foi desenvolvido para servir como um exemplo estruturado e documentado de um aplicativo utilizando React Native. 
+## O propósito deste repositório não é entregar uma aplicação completa, mas sim fornecer um modelo utilizado como peça de portfólio ou ponto de partida para a construção de outros projetos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -51,6 +80,6 @@ Join our community of developers creating universal apps.
 # food
 # food
 
-## Lembrete
+## Lembrete para rodar a Fake API
 
 npx json-server db.json
