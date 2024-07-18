@@ -2,8 +2,7 @@
 ## Este projeto foi desenvolvido para servir como um exemplo estruturado e documentado de um aplicativo utilizando React Native. 
 ## O propósito deste repositório não é entregar uma aplicação completa, mas sim fornecer um modelo utilizado como peça de portfólio ou ponto de partida para a construção de outros projetos.
 
-
-
+[Gravação de tela de 18-07-2024 16:58:11.webm](https://github.com/user-attachments/assets/97a48fc9-1e0a-43b5-8d03-faed8cd15219)
 
 
 
