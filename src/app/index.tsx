@@ -1,9 +1,12 @@
 import { Text, View, ScrollView } from "react-native";
 import { Header } from "../components/header";
 import { Banner } from "../components/banner";
+import { Search } from "../components/search";
+
 
 
 import Constants from 'expo-constants';
+
 
 const statusBarHeight = Constants.statusBarHeight;
 
@@ -19,7 +22,7 @@ export default function Index() {
 
         <Banner/>
 
-
+        <Search/>
       </View>
 
     </ScrollView>
